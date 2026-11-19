@@ -6,7 +6,6 @@ This portfolio brings together six interactive Google Play Store Analytics appli
 ## 🌐 Live Portfolio
 **Portfolio Website:** 
 https://soumyahallur02-cpu.github.io/Soumya-Portfolio/
-
 ## 🚀 Featured Projects
 ### 1. PlayStore Nexus
 An interactive Google Play Store analytics application for exploring app performance and category insights.
