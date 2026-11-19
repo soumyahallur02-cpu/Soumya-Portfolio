@@ -9,7 +9,6 @@ https://soumyahallur02-cpu.github.io/Soumya-Portfolio/
 ## 🚀 Featured Projects
 ### 1. PlayStore Nexus
 An interactive Google Play Store analytics application for exploring app performance and category insights.
-
 - Technologies: Python, Streamlit, Pandas, Plotly
 - Live Demo: https://playstore-nexus-plv3ksltcgn2goyrf8zdtn.streamlit.app/
 ### 2. Global Installs Dashboard
