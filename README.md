@@ -23,7 +23,6 @@ An interactive dashboard for exploring Google Play Store app installation statis
 
 ### 4. InstallScope – Growth Atlas
 An interactive category intelligence dashboard to discover app category performance through filtering and cumulative install analytics.
-
 - Technologies: Python, Streamlit, Pandas, Plotly
 - Live Demo: https://installscope-play-store-growth-atlas-5em5dt9efhnhlfybtkqrah.streamlit.app/
 
