@@ -46,7 +46,6 @@ A Play Store analytics application for exploring application data and understand
 - **Tools:** Git, GitHub, VS Code, Streamlit
 
 ## 📂 Portfolio Structure
-
 Soumya-Portfolio/
 │
 ├── index.html
