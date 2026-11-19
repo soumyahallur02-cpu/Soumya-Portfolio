@@ -37,7 +37,6 @@ A Play Store analytics application for exploring application data and understand
 - Live Demo: https://playscope-hafmsbytaowibf4svnn8gh.streamlit.app/
 
 ## 🛠️ Technical Skills
-
 - **Programming Languages:** Python, Java, C
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Flask, Django
