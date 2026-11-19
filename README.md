@@ -33,7 +33,6 @@ A data analytics application for exploring Play Store data, app categories, and 
 
 ### 6. PlayScope
 A Play Store analytics application for exploring application data and understanding installation patterns.
-
 - Technologies: Python, Streamlit, Analytics
 - Live Demo: https://playscope-hafmsbytaowibf4svnn8gh.streamlit.app/
 
