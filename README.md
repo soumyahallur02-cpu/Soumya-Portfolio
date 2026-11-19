@@ -28,7 +28,6 @@ An interactive category intelligence dashboard to discover app category performa
 
 ### 5. Play Store Analytics Dashboard
 A data analytics application for exploring Play Store data, app categories, and installation trends.
-
 - Technologies: Python, Streamlit, Data Visualization
 - Live Demo: https://playstore-analytics-dashboard-58u5wpnfpklzorwqudynfb.streamlit.app/
 
