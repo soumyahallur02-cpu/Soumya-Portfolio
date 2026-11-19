@@ -1,5 +1,4 @@
 # Soumya-Portfolio
-
 # Soumya Hallur | Developer Portfolio
 
 Welcome to my personal developer portfolio! 👋
