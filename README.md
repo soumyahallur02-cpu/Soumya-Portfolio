@@ -4,7 +4,6 @@ Welcome to my personal developer portfolio! 👋
 I am a fourth-year Computer Science Engineering student passionate about Software Development, Artificial Intelligence, Machine Learning, and Data Analytics.
 This portfolio brings together six interactive Google Play Store Analytics applications, allowing visitors to explore my work through a single website.
 ## 🌐 Live Portfolio
-
 **Portfolio Website:** 
 https://soumyahallur02-cpu.github.io/Soumya-Portfolio/
 
