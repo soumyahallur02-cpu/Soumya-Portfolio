@@ -1,6 +1,5 @@
 # Soumya-Portfolio
 # Soumya Hallur | Developer Portfolio
-
 Welcome to my personal developer portfolio! 👋
 
 I am a fourth-year Computer Science Engineering student passionate about Software Development, Artificial Intelligence, Machine Learning, and Data Analytics.
