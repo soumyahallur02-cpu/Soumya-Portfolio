@@ -12,7 +12,6 @@ An interactive Google Play Store analytics application for exploring app perform
 
 - Technologies: Python, Streamlit, Pandas, Plotly
 - Live Demo: https://playstore-nexus-plv3ksltcgn2goyrf8zdtn.streamlit.app/
-
 ### 2. Global Installs Dashboard
 A dashboard for analysing global app installation trends and comparing app category performance.
 
