@@ -19,7 +19,6 @@ A dashboard for analysing global app installation trends and comparing app categ
 
 ### 3. App Play Installs Dashboard
 An interactive dashboard for exploring Google Play Store app installation statistics.
-
 - Technologies: Python, Streamlit, Pandas, Plotly
 - Live Demo: https://appplayinstallsdashboard-rfrjrvnt2pxmctpunsrjmn.streamlit.app/
 
